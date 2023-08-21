@@ -1,6 +1,3 @@
-
-
-
 # Learn Java 17 Programming - Second Edition
 
 <a href="https://www.packtpub.com/product/learn-java-17-programming-second-edition/9781803241432?utm_source=github&utm_medium=repository&utm_campaign=9781803241432"><img src="https://static.packt-cdn.com/products/9781803241432/cover/smaller" alt="Learn Java 17 Programming - Second Edition" height="256px" align="right"></a>
