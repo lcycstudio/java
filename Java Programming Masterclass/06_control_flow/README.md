@@ -1,0 +1,40 @@
+## Section 06: Control Flow
+
+#### Table of Contents
+- Introduction
+- The Switch statement
+- More Switch statement
+- Traditional Switch Challenge
+- A Switch Expression Challenge
+- The for Statement
+- The for Statement Challenge Exercise
+- Sum 3 and 5 Challenge And Using IntelliJ's Debugger
+- For Loop Recap
+- The While and do While statements
+- The While Loop Challenge Exercise
+- Digit Sum Challenge
+- While Loop and Do While Recap
+- Local Variables and Scope
+- The class, the object, static & instance fields and methods
+- Parsing Values and Reading Input using System.console()
+- Exception Handling, and Introduction to Scanner
+- Reading Input with Scanner
+- Reading User Input Challenge
+- Min and Max Challenge
+- Coding Exercise 01: Number In Word
+- Coding Exercise 02: Number Of Days In Month
+- Coding Exercise 03: Sum Odd
+- Coding Exercise 04: Number Palindrome
+- Coding Exercise 05: First And Last Digit Sum
+- Coding Exercise 06: Even Digit Sum
+- Coding Exercise 07: Shared Digit
+- Coding Exercise 08: Last Digit Checker
+- Coding Exercise 09: All Factors
+- Coding Exercise 10: Greatest Common Divisor
+- Coding Exercise 11: Perfect Number
+- Coding Exercise 12: Number To Words
+- Coding Exercise 13: Flour Pack Problem
+- Coding Exercise 14: Largest Prime
+- Coding Exercise 15: Diagonal Star
+- Coding Exercise 16: Input Calculator
+- Coding Exercise 17: Paint Job

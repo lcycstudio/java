@@ -139,5 +139,4 @@ Home of the Spring MVC framework
 - And Maven will make those JAR files available during compile/run
 - Think of Maven as your friendly helper / personal shopper
 
-![Maven]()
-![Route Between Nodes](https://github.com/lcycstudio/java/blob/master/Spring Boot 3, Spring 6 & Hibernate for Beginners/01-spring-boot-overview/maven.png)
+![Maven](https://github.com/lcycstudio/java/blob/master/Spring%20Boot%203%2C%20Spring%206%20%26%20Hibernate%20for%20Beginners/01-spring-boot-overview/maven.png)
